@@ -766,4 +766,4 @@ async def uptime_count():
 
 
 client.loop.create_task(uptime_count())
-client.run('BOT-TOKEN')  # TODO: insert token
+client.run('NTI2Mjk1MDAxNDcxMTIzNDU2.XRz0_Q.pdx-lXy3CgZ9uFSfQsFlfs5LKTE')  # TODO: insert token
